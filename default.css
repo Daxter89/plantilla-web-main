@@ -463,6 +463,7 @@
         color: white; /* Cambia el color del texto al pasar el ratón */
       }
 
+	  /* Cam*/
       .rotate:hover + .text {
         color: red; /* Cambia el color del texto a rojo al pasar el ratón sobre la imagen */
       }
